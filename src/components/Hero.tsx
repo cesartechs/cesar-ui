@@ -21,7 +21,7 @@ export default function Hero() {
           </h1>
           
           <p className="text-xl md:text-2xl mb-8 text-slate-600 max-w-3xl mx-auto">
-            Full-Stack Developer | AWS Cloud Practitioner | Linux Specialist
+            Full-Stack Developer | AWS Cloud Practitioner | Junior DevOps Engineer
             <br />
             Bridging infrastructure excellence with software innovation
           </p>
